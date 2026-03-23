@@ -28,8 +28,8 @@ Currently deep-diving into full-stack patterns and system design.
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mstoiakevych&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstoiakevych&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=mstoiakevych&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstoiakevych&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
